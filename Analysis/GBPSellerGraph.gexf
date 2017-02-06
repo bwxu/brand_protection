@@ -1,0 +1,1715 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="numListings" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="afmon2006" label="afmon2006">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="svcstore" label="svcstore">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="nationalmedicsales" label="nationalmedicsales">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="endoscopy" label="endoscopy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="urlacquisitions" label="urlacquisitions">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="forrestsurplus" label="forrestsurplus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="kc-medsupply" label="kc-medsupply">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="surgicycle" label="surgicycle">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="ekrupman" label="ekrupman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="mcsurgical" label="mcsurgical">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="sophicinventorymanagement" label="sophicinventorymanagement">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="shmedicalcorporation" label="shmedicalcorporation">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="mkv1957" label="mkv1957">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="secondchancemedical" label="secondchancemedical">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="victoralvarado" label="victoralvarado">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="devinemedicalsince1997" label="devinemedicalsince1997">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="carribeandragon" label="carribeandragon">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="123sold-2u" label="123sold-2u">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="barder_n_trades" label="barder_n_trades">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="medicalequipmentesi" label="medicalequipmentesi">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="larry122049" label="larry122049">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="swapx49" label="swapx49">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="recyclemedical" label="recyclemedical">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="410ranch" label="410ranch">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="endomed1974" label="endomed1974">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="bidexcellence999" label="bidexcellence999">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="ariana12perles" label="ariana12perles">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="solanotraders" label="solanotraders">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="jairpin99" label="jairpin99">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="enetspace" label="enetspace">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="joethedentist" label="joethedentist">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="medsource15" label="medsource15">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="ronsauctionstuff" label="ronsauctionstuff">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="sorensen2010" label="sorensen2010">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="medexcess" label="medexcess">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="toplineinn" label="toplineinn">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="chad_wick26" label="chad_wick26">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="banskybuff" label="banskybuff">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="martinhandel" label="martinhandel">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="silahmoret" label="silahmoret">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="medicalsol" label="medicalsol">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="djmedicalsupply" label="djmedicalsupply">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="onlygoodthingshere" label="onlygoodthingshere">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="angels152" label="angels152">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="ceviequipment" label="ceviequipment">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="medicalcosmos" label="medicalcosmos">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="zgrum-medical-endoscopy" label="zgrum-medical-endoscopy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="wowhouse1" label="wowhouse1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="maybg91" label="maybg91">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="larryrice87" label="larryrice87">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="mrsmedsails" label="mrsmedsails">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="slp3k" label="slp3k">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="scottdmd03" label="scottdmd03">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="whittemore_enterprises" label="whittemore_enterprises">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="optimumemptio" label="optimumemptio">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="bigapplecollector" label="bigapplecollector">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="promedstore" label="promedstore">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="medi.surgical" label="medi.surgical">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="bhomrg" label="bhomrg">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="877444unix" label="877444unix">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="torjenmartyn" label="torjenmartyn">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="buyanewlife" label="buyanewlife">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="bststuff4u" label="bststuff4u">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="eds22" label="eds22">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="i.t.compuparts" label="i.t.compuparts">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="collectibles-n-more" label="collectibles-n-more">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="medicalequip4u" label="medicalequip4u">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="edeales2" label="edeales2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="asset-liquidation-sales" label="asset-liquidation-sales">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="meus714" label="meus714">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="princess_cammi22" label="princess_cammi22">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="kmaremarketing" label="kmaremarketing">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="certifiedendoscopyproducts" label="certifiedendoscopyproducts">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="newpm" label="newpm">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="cybermedicalsupply" label="cybermedicalsupply">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="halnazar818" label="halnazar818">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="yuuuup11" label="yuuuup11">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="dab4us" label="dab4us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="eye-surgical-instruments" label="eye-surgical-instruments">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="medicalforless" label="medicalforless">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="excessmm" label="excessmm">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="outback6" label="outback6">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="chicagomedshipment" label="chicagomedshipment">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="visitmye-bay" label="visitmye-bay">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="equipment-recycle" label="equipment-recycle">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="kelseyg777" label="kelseyg777">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="surplusmed" label="surplusmed">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="esfhelps2015" label="esfhelps2015">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="medical_online_superstore" label="medical_online_superstore">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </node>
+      <node id="stormin_norman_469" label="stormin_norman_469">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="used_equipment4u" label="used_equipment4u">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="med4sale" label="med4sale">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="pluckie83" label="pluckie83">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="webshopqueen" label="webshopqueen">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="melmdresource" label="melmdresource">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="dareathletica" label="dareathletica">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="nasanut7315" label="nasanut7315">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="eagle-us2015" label="eagle-us2015">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="outdoorsup" label="outdoorsup">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="2geminiwsale" label="2geminiwsale">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="deloganinc" label="deloganinc">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="rventuresmedical" label="rventuresmedical">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="whitehorse-technical" label="whitehorse-technical">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="greatsouth11" label="greatsouth11">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="sevves" label="sevves">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="zrock899" label="zrock899">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="allthingsbyme" label="allthingsbyme">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="entstock" label="entstock">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="mommytaxi" label="mommytaxi">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="akokoman" label="akokoman">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="winid2015" label="winid2015">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="dentist_97" label="dentist_97">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="funckymonkey" label="funckymonkey">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="on3rdand20" label="on3rdand20">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="lapromanendoserv" label="lapromanendoserv">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="lifemed2" label="lifemed2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="usus174" label="usus174">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="surgicalplusstore" label="surgicalplusstore">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="amazingmall66" label="amazingmall66">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="surgdental" label="surgdental">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="sf_spec_hosp" label="sf_spec_hosp">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="cyberbiz1" label="cyberbiz1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="medworldinc" label="medworldinc">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="unitedstatesmedicalsupplies" label="unitedstatesmedicalsupplies">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="medical-worldsale99" label="medical-worldsale99">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="hkssurtech" label="hkssurtech">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="lvtronics" label="lvtronics">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="medicare911" label="medicare911">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="stu-nan" label="stu-nan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="momonations" label="momonations">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="tools4docs" label="tools4docs">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="dimesllc" label="dimesllc">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="creationsbypilar" label="creationsbypilar">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="topnotchelectronics_2" label="topnotchelectronics_2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="lisa120146" label="lisa120146">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="medicos2014" label="medicos2014">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="felolopez2013" label="felolopez2013">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="southernconsolidated" label="southernconsolidated">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="electro-international" label="electro-international">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="youn-marye" label="youn-marye">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="rgmedical_usa" label="rgmedical_usa">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="houstontestequipments" label="houstontestequipments">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="grestill" label="grestill">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="kissingmanha" label="kissingmanha">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3214garage" label="3214garage">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="medwerks" label="medwerks">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="popinternational" label="popinternational">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="clearchoicemed" label="clearchoicemed">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="brownbear9318" label="brownbear9318">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="salnada_medical" label="salnada_medical">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="etechlab" label="etechlab">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="buyhitek" label="buyhitek">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="mstmedicalsalesva2" label="mstmedicalsalesva2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="medx01" label="medx01">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="sjpmedical" label="sjpmedical">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="chadwick22" label="chadwick22">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="therightstuff619" label="therightstuff619">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="gmpol2015" label="gmpol2015">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="medworxsupply2014" label="medworxsupply2014">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="tigersmeddental2015" label="tigersmeddental2015">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="discountmedicals99" label="discountmedicals99">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="mkandara" label="mkandara">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="onestopmedicalsupply" label="onestopmedicalsupply">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="lapsurgsolution" label="lapsurgsolution">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="bullsharkmedical" label="bullsharkmedical">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="abcoremedical" label="abcoremedical">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="pacific_beach_medical" label="pacific_beach_medical">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="ringlemed" label="ringlemed">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="idrees2007" label="idrees2007">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="jstnanderson650" label="jstnanderson650">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="bucknell03" label="bucknell03">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="southernindustrialsales" label="southernindustrialsales">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="m.instrumentscorp" label="m.instrumentscorp">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="tpier12" label="tpier12">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="blackpool_online" label="blackpool_online">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="able_lab" label="able_lab">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="ganimmedical" label="ganimmedical">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="jointadvantagecorp" label="jointadvantagecorp">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="meirroz" label="meirroz">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="lovellb" label="lovellb">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="surgical-overstock" label="surgical-overstock">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </node>
+      <node id="biosurgicalengineering" label="biosurgicalengineering">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="jm55led" label="jm55led">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="tronic2" label="tronic2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="med.one" label="med.one">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="hospitalsavings" label="hospitalsavings">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="sellit0866" label="sellit0866">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="capmedresources" label="capmedresources">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="jessimedical2015" label="jessimedical2015">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="prism_electronics2" label="prism_electronics2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="dmt_supply" label="dmt_supply">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="medsupp" label="medsupp">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="gaspowersales" label="gaspowersales">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="grapej1026" label="grapej1026">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="renewmedicalsurplus" label="renewmedicalsurplus">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="us-joe" label="us-joe">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="battlebornbiomedical" label="battlebornbiomedical">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="medogenmedical" label="medogenmedical">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="jec_enterprises" label="jec_enterprises">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="dreamcars2013" label="dreamcars2013">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="straight-liquidation" label="straight-liquidation">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="elctek" label="elctek">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="keystone_enterprises" label="keystone_enterprises">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="americandentaldepot" label="americandentaldepot">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="kingking!" label="kingking!">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="bargainmedical" label="bargainmedical">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="breezwaydental" label="breezwaydental">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="tmedstore" label="tmedstore">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="medresale-us" label="medresale-us">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="amdamom" label="amdamom">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="f512bb" label="f512bb">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="swheels07" label="swheels07">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="medi.house" label="medi.house">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="mdi240" label="mdi240">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="omnimed" label="omnimed">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="medworld_superstore" label="medworld_superstore">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="rev_sharm" label="rev_sharm">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="snickdog113" label="snickdog113">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="surgicalsupplybybsi" label="surgicalsupplybybsi">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="northstar127cj" label="northstar127cj">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="meddirectsurplus" label="meddirectsurplus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="medrefurbish" label="medrefurbish">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="mission-medical" label="mission-medical">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="mstmedicalsalesva" label="mstmedicalsalesva">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="nov0378" label="nov0378">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="darenmai" label="darenmai">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="scope-lab" label="scope-lab">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="tech1365" label="tech1365">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="shoremedllc" label="shoremedllc">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="greenrivermedicalva" label="greenrivermedicalva">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="medused" label="medused">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="rv-zoo283" label="rv-zoo283">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="medlec" label="medlec">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="med131" label="med131">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="kerma_bo" label="kerma_bo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="bearlyusedgoods2" label="bearlyusedgoods2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="straight-liquidation-medical" label="straight-liquidation-medical">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="mdozcan" label="mdozcan">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="newthingsallthetime" label="newthingsallthetime">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="buy9.99" label="buy9.99">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="keshlata" label="keshlata">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="marlenem8881" label="marlenem8881">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="rons_online_treasures" label="rons_online_treasures">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="kimbeelee" label="kimbeelee">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="themoreforu" label="themoreforu">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="sophicsales" label="sophicsales">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="divineonline" label="divineonline">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="zeina2389" label="zeina2389">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="hospitaloverstock" label="hospitaloverstock">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="cartenel" label="cartenel">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="nyrabbi" label="nyrabbi">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="didage" label="didage">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="paddywhacktrick" label="paddywhacktrick">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="techrepair2000" label="techrepair2000">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="305consumables" label="305consumables">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="auctionfleet" label="auctionfleet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="galamedical2166" label="galamedical2166">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="mnutis0205" label="mnutis0205">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="mf818" label="mf818">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="see2015" label="see2015">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="drgolf47" label="drgolf47">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="realtimemed2010" label="realtimemed2010">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="j0adam04" label="j0adam04">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="richargregor1" label="richargregor1">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="auction.authority" label="auction.authority">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="equipguys440" label="equipguys440">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="allthingsforyou12" label="allthingsforyou12">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="tridentmedical-llc" label="tridentmedical-llc">
+        <attvalues>
+          <attvalue for="0" value="52" />
+        </attvalues>
+      </node>
+      <node id="carbla-elm0xz" label="carbla-elm0xz">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="out-there-dental" label="out-there-dental">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="medicmarket" label="medicmarket">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="wendell403" label="wendell403">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="surewin3" label="surewin3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="mcmil28" label="mcmil28">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="lbisales1132" label="lbisales1132">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="assetmover1" label="assetmover1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="emily-and-co" label="emily-and-co">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="treasurtrader" label="treasurtrader">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="ciesipatri" label="ciesipatri">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="equipmentrus100" label="equipmentrus100">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="spartawholesale" label="spartawholesale">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="superseller66" label="superseller66">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="pinkpressmarket" label="pinkpressmarket">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="globalmedicalsolution" label="globalmedicalsolution">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="rocco2143" label="rocco2143">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="jmwholesale2013" label="jmwholesale2013">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="highqualitysurplus" label="highqualitysurplus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="dots.jerr" label="dots.jerr">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="endocop" label="endocop">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="5pmoore3" label="5pmoore3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="mmesllc123" label="mmesllc123">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="h0llyw000d" label="h0llyw000d">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="817cyberhunter41" label="817cyberhunter41">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="santamugs" label="santamugs">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="elitemedsales" label="elitemedsales">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="supplyresource" label="supplyresource">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="requinlapin" label="requinlapin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="suzees" label="suzees">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="thexooom" label="thexooom">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="johngalthero" label="johngalthero">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="academicandrea" label="academicandrea">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="medstuff123" label="medstuff123">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="lifesaver-530" label="lifesaver-530">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="bigdogeatdriver" label="bigdogeatdriver">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="globalmedicaldev" label="globalmedicaldev">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="laloomedicalusa" label="laloomedicalusa">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="tradinggoods000" label="tradinggoods000">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="chirpychuckles" label="chirpychuckles">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="nwsmedical" label="nwsmedical">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="betamedical" label="betamedical">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="gigabeto" label="gigabeto">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="matrixmedical" label="matrixmedical">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="1homep" label="1homep">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="dealsbynat" label="dealsbynat">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="primisllc" label="primisllc">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="edani14" label="edani14">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="surgical_device_shop" label="surgical_device_shop">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="djenky99" label="djenky99">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="nationalmedicsales" target="bststuff4u" />
+      <edge id="1" source="secondchancemedical" target="etechlab" />
+      <edge id="2" source="secondchancemedical" target="amdamom" />
+      <edge id="3" source="carribeandragon" target="medicare911" />
+      <edge id="4" source="123sold-2u" target="medworxsupply2014" />
+      <edge id="5" source="bidexcellence999" target="superseller66" />
+      <edge id="6" source="solanotraders" target="outback6" />
+      <edge id="7" source="solanotraders" target="surplusmed" />
+      <edge id="8" source="solanotraders" target="auction.authority" />
+      <edge id="9" source="solanotraders" target="wendell403" />
+      <edge id="10" source="solanotraders" target="medrefurbish" />
+      <edge id="11" source="solanotraders" target="amdamom" />
+      <edge id="12" source="solanotraders" target="tools4docs" />
+      <edge id="13" source="solanotraders" target="omnimed" />
+      <edge id="14" source="solanotraders" target="primisllc" />
+      <edge id="15" source="solanotraders" target="supplyresource" />
+      <edge id="16" source="enetspace" target="biosurgicalengineering" />
+      <edge id="17" source="medsource15" target="chirpychuckles" />
+      <edge id="18" source="ronsauctionstuff" target="cartenel" />
+      <edge id="19" source="djmedicalsupply" target="mnutis0205" />
+      <edge id="20" source="whittemore_enterprises" target="lapsurgsolution" />
+      <edge id="21" source="whittemore_enterprises" target="mstmedicalsalesva" />
+      <edge id="22" source="medi.surgical" target="themoreforu" />
+      <edge id="23" source="medi.surgical" target="eye-surgical-instruments" />
+      <edge id="24" source="eds22" target="topnotchelectronics_2" />
+      <edge id="25" source="collectibles-n-more" target="excessmm" />
+      <edge id="26" source="kmaremarketing" target="etechlab" />
+      <edge id="27" source="kmaremarketing" target="equipment-recycle" />
+      <edge id="28" source="kmaremarketing" target="sevves" />
+      <edge id="29" source="kmaremarketing" target="gaspowersales" />
+      <edge id="30" source="kmaremarketing" target="jstnanderson650" />
+      <edge id="31" source="kmaremarketing" target="therightstuff619" />
+      <edge id="32" source="outback6" target="surplusmed" />
+      <edge id="33" source="outback6" target="wendell403" />
+      <edge id="34" source="outback6" target="medrefurbish" />
+      <edge id="35" source="outback6" target="amdamom" />
+      <edge id="36" source="outback6" target="tools4docs" />
+      <edge id="37" source="outback6" target="omnimed" />
+      <edge id="38" source="outback6" target="primisllc" />
+      <edge id="39" source="outback6" target="supplyresource" />
+      <edge id="40" source="surplusmed" target="wendell403" />
+      <edge id="41" source="surplusmed" target="medrefurbish" />
+      <edge id="42" source="surplusmed" target="amdamom" />
+      <edge id="43" source="surplusmed" target="tools4docs" />
+      <edge id="44" source="surplusmed" target="omnimed" />
+      <edge id="45" source="surplusmed" target="primisllc" />
+      <edge id="46" source="surplusmed" target="supplyresource" />
+      <edge id="47" source="stormin_norman_469" target="jointadvantagecorp" />
+      <edge id="48" source="2geminiwsale" target="lifesaver-530" />
+      <edge id="49" source="2geminiwsale" target="biosurgicalengineering" />
+      <edge id="50" source="2geminiwsale" target="elctek" />
+      <edge id="51" source="sevves" target="shoremedllc" />
+      <edge id="52" source="sevves" target="etechlab" />
+      <edge id="53" source="sevves" target="gaspowersales" />
+      <edge id="54" source="sevves" target="therightstuff619" />
+      <edge id="55" source="entstock" target="assetmover1" />
+      <edge id="56" source="tools4docs" target="wendell403" />
+      <edge id="57" source="tools4docs" target="medrefurbish" />
+      <edge id="58" source="tools4docs" target="amdamom" />
+      <edge id="59" source="tools4docs" target="f512bb" />
+      <edge id="60" source="tools4docs" target="youn-marye" />
+      <edge id="61" source="tools4docs" target="mdi240" />
+      <edge id="62" source="tools4docs" target="omnimed" />
+      <edge id="63" source="tools4docs" target="primisllc" />
+      <edge id="64" source="tools4docs" target="supplyresource" />
+      <edge id="65" source="youn-marye" target="mdi240" />
+      <edge id="66" source="youn-marye" target="f512bb" />
+      <edge id="67" source="etechlab" target="gaspowersales" />
+      <edge id="68" source="etechlab" target="therightstuff619" />
+      <edge id="69" source="mstmedicalsalesva2" target="mstmedicalsalesva" />
+      <edge id="70" source="therightstuff619" target="gaspowersales" />
+      <edge id="71" source="therightstuff619" target="buy9.99" />
+      <edge id="72" source="onestopmedicalsupply" target="lovellb" />
+      <edge id="73" source="lapsurgsolution" target="mstmedicalsalesva" />
+      <edge id="74" source="abcoremedical" target="globalmedicalsolution" />
+      <edge id="75" source="m.instrumentscorp" target="surgical-overstock" />
+      <edge id="76" source="blackpool_online" target="elctek" />
+      <edge id="77" source="blackpool_online" target="out-there-dental" />
+      <edge id="78" source="surgical-overstock" target="mcmil28" />
+      <edge id="79" source="surgical-overstock" target="surewin3" />
+      <edge id="80" source="surgical-overstock" target="tridentmedical-llc" />
+      <edge id="81" source="surgical-overstock" target="djenky99" />
+      <edge id="82" source="biosurgicalengineering" target="lifesaver-530" />
+      <edge id="83" source="biosurgicalengineering" target="medogenmedical" />
+      <edge id="84" source="med.one" target="surewin3" />
+      <edge id="85" source="dmt_supply" target="snickdog113" />
+      <edge id="86" source="medogenmedical" target="djenky99" />
+      <edge id="87" source="elctek" target="lifesaver-530" />
+      <edge id="88" source="elctek" target="out-there-dental" />
+      <edge id="89" source="elctek" target="chirpychuckles" />
+      <edge id="90" source="bargainmedical" target="elitemedsales" />
+      <edge id="91" source="amdamom" target="wendell403" />
+      <edge id="92" source="amdamom" target="medrefurbish" />
+      <edge id="93" source="amdamom" target="omnimed" />
+      <edge id="94" source="amdamom" target="primisllc" />
+      <edge id="95" source="amdamom" target="supplyresource" />
+      <edge id="96" source="f512bb" target="mdi240" />
+      <edge id="97" source="omnimed" target="wendell403" />
+      <edge id="98" source="omnimed" target="medrefurbish" />
+      <edge id="99" source="omnimed" target="primisllc" />
+      <edge id="100" source="omnimed" target="supplyresource" />
+      <edge id="101" source="medrefurbish" target="wendell403" />
+      <edge id="102" source="medrefurbish" target="primisllc" />
+      <edge id="103" source="medrefurbish" target="supplyresource" />
+      <edge id="104" source="mstmedicalsalesva" target="richargregor1" />
+      <edge id="105" source="mstmedicalsalesva" target="out-there-dental" />
+      <edge id="106" source="tech1365" target="laloomedicalusa" />
+      <edge id="107" source="tech1365" target="globalmedicaldev" />
+      <edge id="108" source="divineonline" target="bigdogeatdriver" />
+      <edge id="109" source="allthingsforyou12" target="primisllc" />
+      <edge id="110" source="wendell403" target="primisllc" />
+      <edge id="111" source="wendell403" target="supplyresource" />
+      <edge id="112" source="supplyresource" target="primisllc" />
+    </edges>
+  </graph>
+</gexf>
